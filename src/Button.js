@@ -5,6 +5,7 @@ import { darken, rgba } from "polished";
 import { color, typography } from "./shared/styles";
 import { easing } from "./shared/animation";
 
+//fixing things....
 const Text = styled.span`
 	display: inline-block;
 	vertical-align: top;
